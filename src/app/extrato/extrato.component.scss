@@ -24,7 +24,7 @@
     border-radius: 4px;
 
     &:last-child {
-      .tabela-conteudo {
+      .tabela__conteudo {
         border-bottom: none;
       }
     }
@@ -32,6 +32,6 @@
 
   &__conteudo {
     padding: 10px;
-    border-bottom: 1px solid var(--secondary);
+    border-bottom: 1px solid var(--cinza-claro);
   }
 }
